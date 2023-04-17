@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = christodoulou75@gmail.com
+	name = Anthony Christodoulou
